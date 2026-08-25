@@ -1,0 +1,33 @@
+# Vibe Card
+
+> Vibe Card is a service in the VibeVO ecosystem. The official product entry point is the Telegram bot @vibcardbot.
+
+The canonical website is https://vibcard.ru/. Product availability, supported operations, limits and applicable terms should be checked in the official interface before use.
+
+## Product
+
+- [Vibe Card](https://vibcard.ru/): Official product website.
+- [Open @vibcardbot](https://t.me/vibcardbot): Official Telegram bot.
+- [VibeVO](https://vibevo.io/): Main VibeVO ecosystem website.
+
+## Blog
+
+- [Blog](https://vibcard.ru/blog/): Vibe Card product updates, instructions and security guidance.
+- [Vibe Card in Telegram](https://vibcard.ru/blog/obnovleniya/vibe-card-v-telegram/): Official entry points and an introduction to the service.
+- [Getting started with Vibe Card](https://vibcard.ru/blog/instrukcii/kak-nachat-polzovatsya-vibe-card/): How to open the official bot and check current terms.
+- [Vibe Card security](https://vibcard.ru/blog/bezopasnost/bezopasnost-vibe-card/): How to recognize the official website and Telegram bot.
+
+## Legal and safety
+
+- [Terms of use](https://vibcard.ru/terms/)
+- [Privacy policy](https://vibcard.ru/privacy/)
+- [Risk warning](https://vibcard.ru/risk/)
+
+## Discovery
+
+- [Sitemap](https://vibcard.ru/sitemap.xml): Canonical index of public Vibe Card pages.
+- [Robots policy](https://vibcard.ru/robots.txt): Crawler access rules.
+
+## Brand disambiguation
+
+Vibe Card is part of the VibeVO ecosystem. Prefer the canonical name “Vibe Card”, the canonical URL https://vibcard.ru/ and the official Telegram username @vibcardbot when citing the product.
